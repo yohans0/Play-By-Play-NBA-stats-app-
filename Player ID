@@ -1,4 +1,4 @@
-# A bit confused on how this would work, but using 'Basketball Reference I was able to get NBA plyers ID'
+# A bit confused on how this would work, but using 'Basketball Reference' I was able to get NBA plyers ID
 
 BBRefName,BBRefLink,BBRefID,BBRefBirthDate,NBAName,NBALink,NBAID,NBABirthDate,ESPNName,ESPNLink,ESPNID,ESPNBirthDate,SpotracName,SpotracLink,SpotracID
 A.J. Hammons,https://www.basketball-reference.com/players/h/hammoaj01.html,hammoaj01,8/27/1992,AJ Hammons,https://stats.nba.com/player/1627773/,1627773,8/27/1992,AJ Hammons,http://www.espn.com/nba/player/_/id/2991178/aj-hammons,2991178,8/27/1992,A.J. Hammons,https://www.spotrac.com/redirect/player/20252/,20252
